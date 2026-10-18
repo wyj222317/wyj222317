@@ -1,4 +1,4 @@
-你好，我是吴少杰 (Shaojie Wu)
+你好，我是Shaojie Wu
 
 UNSW 信息技术硕士 · AI 应用工程师方向
 
