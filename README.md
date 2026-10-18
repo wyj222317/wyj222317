@@ -8,7 +8,7 @@ UNSW 信息技术硕士 · AI 应用工程师方向
 作品
 
 - [CareerPilot](https://github.com/wyj222317/CareerPilot) — 证据约束的 AI 求职匹配与简历优化平台（FastAPI + React + LangGraph，225 项测试，[在线 Demo](https://careerpilot-evm0.onrender.com)）
-
+- 
 技术栈
 
 Python · LangChain/LangGraph · RAG · FastAPI · React · PostgreSQL · Spark · Docker
